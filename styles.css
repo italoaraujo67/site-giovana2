@@ -104,3 +104,16 @@ footer {
     color: #fff;
     margin-top: 40px;
 }
+.whatsapp-button {
+    background-color: #25D366; /* Cor verde do WhatsApp */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.whatsapp-button:hover {
+    background-color: #128C7E; /* Cor do WhatsApp ao passar o mouse */
+}
+
